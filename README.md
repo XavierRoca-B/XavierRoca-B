@@ -6,14 +6,13 @@
     💻 System programming languages • Java - HTML5 - CSS - JSON  
     📖 Web Develop Degree 
     🎮 Music • Games • Anime • Code • Art • Movies 
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
 <img src=" "
     
-[![LIn](https://img.shields.io/badge/LinkedIn-xavi--roca-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/xavi-roca-759407313/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-xavi_roca-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/xavi-roca-759407313/)
 [![Steam](https://img.shields.io/badge/Steam-enderc85yt-blue?logo=steam&style=for-the-badge)](https://steamcommunity.com/id/enderc85yt)
 [![Discord](https://img.shields.io/badge/Discord-ender6553-5865F2?logo=discord&style=for-the-badge)](https://discord.com/users/ender6553)
 </div>
